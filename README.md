@@ -1,6 +1,6 @@
 # Repository OSS Documentation Templates
 
-A collection of opinionated documentation templates for open-source projects, designed to promote clarity, consistency, and best practices.
+A collection of opinionated documentation templates for open-source projects, designed to promote clarity and consistency.
 
 ---
 
