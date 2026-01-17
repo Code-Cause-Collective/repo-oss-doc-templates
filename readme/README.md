@@ -8,21 +8,21 @@ README files act as a primary guide for navigating a project’s structure and c
 
 - [Make a README](https://www.makeareadme.com/)
 
-> Provides information on what a README file is, the purpose it serves, and template
+  > Provides information on what a README file is, the purpose it serves, and template.
 
 - [How to Structure Your README File](https://www.freecodecamp.org/news/how-to-structure-your-readme-file/)
 
-> Provides information on how to structure a README file
+  > Provides information on how to structure a README file.
 
 - [Shields.io](https://shields.io/)
 
-> Add concise, consistent, and legible badges to your README file. For example:
+  > Add concise, consistent, and legible badges to your README file. For example:
 
 ![Static Badge](https://img.shields.io/badge/any_text-you_like-blue) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat) ![Coverage Badge](https://img.shields.io/badge/coverage-95%25-orange)
 
 - [OpenSSF Best Practices Badge Program](https://www.bestpractices.dev/en)
 
-> The Open Source Security Foundation (OpenSSF) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The OpenSSF Best Practices Badge is inspired by the many badges available to projects on GitHub.
+  > The Open Source Security Foundation (OpenSSF) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The OpenSSF Best Practices Badge is inspired by the many badges available to projects on GitHub.
 
 ## OSS Project README Examples
 
