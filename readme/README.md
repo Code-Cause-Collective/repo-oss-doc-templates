@@ -1,6 +1,6 @@
 # README Files
 
-> Find example in [/readme/example.md](/readme/example.md)
+> Find example in [/readme/example/README.md](/readme/example/README.md)
 
 README files act as a primary guide for navigating a project’s structure and contents, helping users quickly find the information they need. While they are a standard starting point for orientation, project documentation can be organized and maintained in many different ways.
 
