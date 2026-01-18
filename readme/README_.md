@@ -1,7 +1,3 @@
-> [!NOTE]
-> This documentation provides an opinionated framework rather than a rigid standard
-> We invite you to adapt and expand on this information as you continue your learning journey and refine your own approach.
-
 # SimpleGram
 
 SimpleGram is an opinionated tool for handling word plurals
@@ -10,7 +6,7 @@ SimpleGram is an opinionated tool for handling word plurals
 
 ## Documentation
 
-For more detailed documentation, please visit the dedicated [SimpleGram API Reference](docs/api-reference/README.md).
+For more detailed documentation, please visit the dedicated [API Reference: Add reference/link to document].
 
 ## Installation
 
@@ -37,12 +33,12 @@ Likewise, before contributing please read the [contribution guide](CONTRIBUTING.
 
 ## Resources
 
-- [Changelog](CHANGELOG.md)
-- [Code of Conduct](CODE_OF_CONDUCT.md)
-- [Contributing](CONTRIBUTING.md)
-- [Security](SECURITY.md)
-- [API Reference](docs/api-reference/README.md)
+- [Changelog: Add reference/link to document]
+- [Code of Conduct: Add reference/link to document]
+- [Contributing: Add reference/link to document]
+- [Security: Add reference/link to document]
+- [API Reference: Add reference/link to document]
 
 ## License
 
-[MIT](LICENSE)
+[MIT: Add reference/link to document]

@@ -1,8 +1,15 @@
-# README Files
-
-> Find example in [/readme/example/README.md](/readme/example/README.md)
+# README
 
 README files act as a primary guide for navigating a project’s structure and contents, helping users quickly find the information they need. While they are a standard starting point for orientation, project documentation can be organized and maintained in many different ways.
+
+## Examples
+
+> [!NOTE]
+> The examples *we* provided are opinionated and intended as guidance. We encourage you to explore other approaches, adapt them to your workflow, and expand upon them to fit the specific needs of your project.
+
+- [README.md](/readme//README_.md)
+
+> We've added a `_` suffix to avoid naming conflicts.
 
 ## Resources
 
@@ -24,12 +31,12 @@ README files act as a primary guide for navigating a project’s structure and c
 
   > The Open Source Security Foundation (OpenSSF) Best Practices badge is a way for Free/Libre and Open Source Software (FLOSS) projects to show that they follow best practices. Projects can voluntarily self-certify, at no cost, by using this web application to explain how they follow each best practice. The OpenSSF Best Practices Badge is inspired by the many badges available to projects on GitHub.
 
-## OSS Project README Examples
+## OSS Project Readme Examples
 
 > [!NOTE]
-> While we’ve selected these projects as great models, our choices are _subjective_. Don't stop here - browse the wider landscape of open-source projects (on GitHub, GitLab, ect) to see how other communities structure their documentation and build off what you find.
+> While we’ve selected these projects as great models, our choices are *subjective*. Don't stop here - browse the wider landscape of open-source projects (on GitHub, GitLab, ect) to see how other communities structure their documentation and build off what you find.
 
-- [typedoc](https://github.com/TypeStrong/typedoc/blob/master/README.md)
-- [angular](https://github.com/angular/angular/blob/main/README.md)
-- [tauri](https://github.com/tauri-apps/tauri/blob/dev/README.md)
-- [bun](https://github.com/oven-sh/bun/blob/main/README.md)
+- [Typedoc](https://github.com/TypeStrong/typedoc/blob/master/README.md)
+- [Angular](https://github.com/angular/angular/blob/main/README.md)
+- [Tauri](https://github.com/tauri-apps/tauri/blob/dev/README.md)
+- [Bun](https://github.com/oven-sh/bun/blob/main/README.md)
