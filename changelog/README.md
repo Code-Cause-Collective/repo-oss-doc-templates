@@ -1,11 +1,16 @@
-# CHANGELOG Files
+# CHANGELOG
 
-> Find example in [/changelog/example/CHANGELOG.md](/changelog/example/CHANGELOG.md)
-
-A CHANGELOG is a curated, chronologically ordered list of notable changes made to a project. While a git history provides a raw technical record, the Changelog translates those commits into a readable summary for users, contributors, and/or stakeholders.
+A Changelog is a curated, chronologically ordered list of notable changes made to a project. While a git history provides a raw technical record, the Changelog translates those commits into a readable summary for users, contributors, and/or stakeholders.
 
 > [!NOTE]
 > The structure of a Changelog is often opinionated, with different teams prioritizing different details. We encourage you to study various formats, and adapt your own style as you continue to refine your release process.
+
+## Examples
+
+> [!NOTE]
+> The examples *we* provided are opinionated and intended as guidance. We encourage you to explore other approaches, adapt them to your workflow, and expand upon them to fit the specific needs of your project.
+
+- [CHANGELOG.md](/changelog/CHANGELOG.md)
 
 ## Resources
 
@@ -21,7 +26,7 @@ A CHANGELOG is a curated, chronologically ordered list of notable changes made t
 
   > This resource outlines the GNU approach to CHANGELOG files, which is historically significant but highly opinionated. While these standards provide a rigorous foundation for tracking development, we encourage you to build off this logic and explore modern alternatives to see which style best fits your project's evolution.
 
-## OSS Project CHANGELOG Examples
+## OSS Project Changelog Examples
 
 - [React (Meta)](https://github.com/facebook/react/blob/main/CHANGELOG.md)
   > A dedicated CHANGELOG.md file within the root of the repository.
