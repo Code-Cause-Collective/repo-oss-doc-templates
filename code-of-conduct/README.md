@@ -12,7 +12,6 @@ A `CODE_OF_CONDUCT.md` file is a document that defines acceptable and unacceptab
 ## Resources
 
 - [Your Code of Conduct](https://opensource.guide/code-of-conduct/)
-
   > A comprehensive guide explaining what a code of conduct is and how to adopt one.
 
 ## Tools

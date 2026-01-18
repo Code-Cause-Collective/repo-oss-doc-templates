@@ -12,13 +12,11 @@ A license protects the creator from liability and clearly defines what others ar
 > The examples *we* provided are opinionated and intended as guidance. We encourage you to explore other approaches, adapt them to your workflow, and expand upon them to fit the specific needs of your project.
 
 - [LICENSE](/license/LICENSE)
-
 > We use the MIT License as an example, but you may replace it with any license text in your LICENSE file.
 
 ## Resources
 
 - [license-templates](https://github.com/licenses/license-templates)
-
 > The license-templates repository is a collection of "blueprints" for the world's most common open-source licenses (like MIT, Apache, and GPL).
 
 ## Common Licenses

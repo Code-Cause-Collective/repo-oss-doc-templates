@@ -17,18 +17,14 @@ Common elements you might include in a security policy:
 1. **Reporting Vulnerabilities**
    - How to report a security issue (e.g., email, GitHub Security Advisory).
    - Recommended level of detail in the report.
-
 2. **Response Process**
    - How maintainers will acknowledge and triage reports.
    - Expected timelines for responses and patches.
-
 3. **Disclosure Guidelines**
    - Coordinated disclosure process to avoid public exposure before a fix is available.
    - Whether the project follows a responsible disclosure policy.
-
 4. **Supported Versions**
    - Which versions are actively maintained and supported for security fixes.
-
 5. **References & Resources**
    - Links to relevant security standards or practices your project follows.
 

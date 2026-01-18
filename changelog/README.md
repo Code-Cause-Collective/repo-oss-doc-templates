@@ -15,15 +15,10 @@ A Changelog is a curated, chronologically ordered list of notable changes made t
 ## Resources
 
 - [Wiki: Changelog](https://en.wikipedia.org/wiki/Changelog)
-
   > This entry provides a broad overview of the history and evolution of the changelog format.
-
 - [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
-
   > Presents a widely adopted and highly opinionated framework for maintaining human-readable logs. While it is considered a modern standard, we encourage you to treat it as a blueprint rather than a rigid rulebook—build off these conventions, adapt them to your project’s unique scale, and continue to learn from how different communities bridge the gap between code and communication.
-
 - [Change Logs (GNU Coding Standards)](https://www.gnu.org/prep/standards/html_node/Change-Logs.html)
-
   > This resource outlines the GNU approach to CHANGELOG files, which is historically significant but highly opinionated. While these standards provide a rigorous foundation for tracking development, we encourage you to build off this logic and explore modern alternatives to see which style best fits your project's evolution.
 
 ## OSS Project Changelog Examples

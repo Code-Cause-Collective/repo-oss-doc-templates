@@ -14,16 +14,13 @@ Common key elements to include in a PR template:
 1. **Title**
    - A concise description of the change.
    - Follow any branch or commit naming conventions.
-
 2. **Description / Summary**
    - What does this PR do?
    - Why is the change needed?
    - Link to related issues or tasks.
-
 3. **Type of Change**
    - Bug fix, feature, documentation update, refactoring, etc.
    - Helps maintainers prioritize reviews.
-
 4. **Additional Notes**
    - Any additional context, warnings, or considerations.
    - Related PRs or dependencies.
@@ -34,5 +31,4 @@ Common key elements to include in a PR template:
 ## Resources
 
 - [GitHub Docs: Creating a Pull Request Template](https://docs.github.com/en/github/building-a-strong-community/creating-a-pull-request-template-for-your-repository)
-
 - [Atlassian guide on PR best practices](https://www.atlassian.com/git/tutorials/making-a-pull-request)
